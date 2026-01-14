@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>當代三 L1 開學了 - 課文內容</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+        .character { color: #2c3e50; font-weight: bold; min-width: 80px; display: inline-block; }
+        .dialogue-section { margin-bottom: 30px; background: #f9f9f9; padding: 15px; border-radius: 8px; }
+        h2 { color: #e67e22; border-bottom: 2px solid #e67e22; padding-bottom: 5px; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">← 返回首頁</a>
+    </nav>
+
+    <h2>當代三 L1 開學了</h2>
+
+    <div class="dialogue-section">
+        <p><span class="character">安德思：</span>羅珊蒂，下課啦！怎麼樣？你們班上有我們上個學期的同學嗎？</p>
+        <p><span class="character">羅珊蒂：</span>沒有，都沒有。你們班怎麼樣？</p>
+        <p><span class="character">安德思：</span>都是新生，我一個也不認識，而且只有我一個男的。</p>
+        <p><span class="character">羅珊蒂：</span>老師呢？老師怎麼樣？</p>
+        <p><span class="character">安德思：</span>老師很嚴。他說我們這學期除了每一課的口試、筆試以外，還要做兩次口頭報告。我覺得壓力好大。你們班呢？</p>
+        <p><span class="character">羅珊蒂：</span>老師的說明很清楚，同學也很熱情。我們今天就一起去吃中飯了。</p>
+    </div>
+
+    <div class="dialogue-section">
+        <p><span class="character">安德思：</span>聽起來不錯。還有位子嗎？有位子的話，我想去旁聽。</p>
+        <p><span class="character">羅珊蒂：</span>你想換班啊？你不是打算在台灣上大學嗎？老師嚴才學得快，學得好啊。</p>
+        <p><span class="character">安德思：</span>可是我是獎學金學生。要是成績不到80分，拿不到獎學金，就得回國了。</p>
+        <p><span class="character">羅珊蒂：</span>我真羡慕你有獎學金。不像我休學來台灣，花的都是父母的錢，一定得用功念書才行。</p>
+    </div>
+
+    <hr>
+
+    <div class="dialogue-section">
+        <p><span class="character">安德思：</span>何雅婷，聽說妳轉系了？</p>
+        <p><span class="character">何雅婷：</span>是啊，這個學期我轉到國際關係系去了。</p>
+        <p><span class="character">安德思：</span>妳原來念的會計系不是很熱門嗎？怎麼不念了？</p>
+        <p><span class="character">何雅婷：</span>我念不下去了。我每天熬夜念書，可是還是差一點被當。這樣下去，四年恐怕沒辦法畢業。</p>
+        <p><span class="character">羅珊蒂：</span>念國際關係很適合妳。妳의 英文那麼流利，口才又好，以後可以當外交人員。</p>
+        <p><span class="character">何雅婷：</span>謝謝妳這麼說。我真想多跟你們聊聊。可惜我得走了，我跟教授約好了討論選課的事，不能遲到。再見。</p>
+    </div>
+
+</body>
+</html>
